@@ -27,7 +27,7 @@
     "sdk"
   ],
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "react-native": "^0.26.0",
     "q": "^1.4.1"
   }
